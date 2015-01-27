@@ -7,22 +7,16 @@ permalink:        pretty
 relative_permalinks: true
 
 # Setup
-title:            Poole
-tagline:          The Jekyll Butler
+title:            Michael Angerman
+tagline:          Angerman Resume
 url:              http://stormasm.github.io
 paginate:         1
 baseurl:          /resume/
 author:
-  name:           Mark Otto
-  url:            https://twitter.com/mdo
-  email:          markdotto@gmail.com
+  name:           Michael Angerman
+  url:            http://michaelangerman.com
 
 # Custom vars
 version:          1.0.0
 github:
   repo:           https://github.com/stormasm/resume
-
-# This is the list of pages to include in the header of the website.
-pages_list:
-  About: '/poole/about/'
-  Archive: '/poole/archive/'
