@@ -4,7 +4,7 @@ title: Github Accounts
 permalink: /github/
 ---
 
-These are my current active Github accounts.  My github accounts tend to be related to different themes and jobs over the years.
+These are my past Github accounts.  My github accounts tend to be related to different themes and jobs over the years.
 
 ### [stormnode](https://github.com/stormnode)
 Lucene, Elasticsearch, Angular and Kibana

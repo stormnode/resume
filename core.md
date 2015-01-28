@@ -27,4 +27,5 @@ permalink: /core/
 * [Express](http://expressjs.com)
 
 ### Github Accounts
-* [Legacy](http://stormasm.github.io/resume/github/)
+* [Current](http://github.com/stormasm)
+* [Past](http://stormasm.github.io/resume/github/)
