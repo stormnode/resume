@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Github Account
+title: Github Accounts
 permalink: /github/
 ---
 
