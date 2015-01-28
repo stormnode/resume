@@ -15,7 +15,7 @@ permalink: /core/
 
 ### Queueing
 * [RabbitMQ](http://www.rabbitmq.com)
-* [NSQ](http://www.nsq.io)
+* [NSQ](http://nsq.io)
 
 ### Front End
 * [jQuery](http://jquery.com)
