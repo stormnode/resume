@@ -5,13 +5,13 @@ permalink: /core/
 ---
 
 ### Back End
-* Redis
-* PostgreSQL
-* Cassandra
+* [Redis](http://redis.io)
+* [PostgreSQL](http://www.postgresql.org)
+* [Cassandra](http://cassandra.apache.org)
 
 ### Search
-* Lucene
-* Elasticsearch
+* [Lucene](http://lucene.apache.org)
+* [Elasticsearch](http://www.elasticsearch.org)
 
 ### Queueing
 * RabbitMQ
