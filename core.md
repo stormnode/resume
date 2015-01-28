@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Core
+title: Core Competencies
 permalink: /core/
 ---
 
