@@ -9,7 +9,7 @@ relative_permalinks: true
 # Setup
 title:            Professional Experience
 tagline:          Angerman Resume
-url:              http://stormasm.github.io
+url:              http://stormnode.github.io
 paginate:         1
 baseurl:          /resume/
 author:
@@ -19,4 +19,4 @@ author:
 # Custom vars
 version:          1.0.0
 github:
-  repo:           https://github.com/stormasm/resume
+  repo:           https://github.com/stormnode/resume
